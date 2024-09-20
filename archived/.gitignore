@@ -1,0 +1,6 @@
+.DS_Store
+*.xcuserstate
+*.pdf
+*.txt
+project.xcworkspace/
+xcuserdata/
